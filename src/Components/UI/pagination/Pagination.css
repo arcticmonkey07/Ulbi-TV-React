@@ -1,0 +1,13 @@
+.page {
+  width: 40px;
+  padding: 5px;
+  margin: 0 10px 10px 0;
+  border: 1px solid teal;
+  background: none;
+  cursor: pointer;
+}
+
+.page_current {
+  color: rgb(65, 63, 63);
+  background-color: rgb(157, 245, 245);
+}

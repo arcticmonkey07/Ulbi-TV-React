@@ -1,0 +1,35 @@
+.post_item {
+  display: flex;
+  width: 1000px;
+  margin: 10px 0;
+  padding: 0 10px;
+  border: 1px solid #000;
+}
+
+.post_header {
+  margin: 0;
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.post_button {
+  width: 60px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.post_del_button {
+  
+}
+
+.post_open_button {
+  margin-right: 5px;
+}

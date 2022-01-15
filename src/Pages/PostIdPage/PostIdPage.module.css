@@ -1,0 +1,31 @@
+.post_id_page {
+  margin: 0 10px;
+}
+
+.title {
+  margin: 5px;
+}
+
+.body {
+  margin: 10px;
+  font-style: italic;
+}
+
+.comment {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #000;
+}
+
+.comment_name {
+  margin-left: 5px;
+  font-weight: 800;
+}
+
+.comment_email {
+  margin-left: 5px;
+}
+
+.comment_body {
+  font-style: italic;
+}

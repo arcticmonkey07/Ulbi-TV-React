@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+  background-color: rgb(192, 192, 192);
+}
+
+.link {
+  margin: 0 10px;
+  padding: 5px 10px;
+  color: teal;
+  border: 1px solid teal;
+  text-decoration: none;
+}
